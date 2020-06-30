@@ -1,5 +1,5 @@
 # Cogs-18-Final-Project
-Sorry, about not finishing the project. I spent over 15 hours on it learning python syntax and debugging.
+Unfinished project. Tried to make a Simongame within a day. This was my best attempt.
 
 These projects only use basic modules, time, tkinter, random, and turtle.
 First compile the MakesGame file then run the jupiter notebooks.
